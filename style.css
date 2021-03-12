@@ -583,7 +583,7 @@ input[type="checkbox"].visually-hidden {
 .intro-link:hover,
 .application-btn:hover,
 .testimonials-btn:hover {
-    filter: saturate(1.2);
+    filter: saturate(1.5);
     transition: filter 0.3s;
 }
 
